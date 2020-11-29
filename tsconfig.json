@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"target": "ES2019",
+		"moduleResolution": "node",
+		"noImplicitAny": true,
+		"strictNullChecks": true,
+		"strictFunctionTypes": true,
+		"noImplicitReturns": true
+  	},
+    "include": ["src/helpers.ts"]
+}
