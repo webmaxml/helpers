@@ -1,0 +1,9 @@
+{
+	"extension": ["ts"],
+	"spec": "test/index.ts",
+	"require": ["ts-node/register"],
+	"bail": true,
+	"watch": true,
+	"watch-files": ["src/**/*.*","test/**/*.*","types/**/*.*"],
+	"ui": "tdd"
+}
