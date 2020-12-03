@@ -1,2 +1,2 @@
 # HELPERS
-Custom custom helpers for develpments
+Custom custom helpers for develpment
